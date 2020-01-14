@@ -1,2 +1,3 @@
 # hello-word
-tutorial
+
+I'm just trying to understand how Github functions.
